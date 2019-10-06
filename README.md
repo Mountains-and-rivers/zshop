@@ -27,7 +27,7 @@ zshop是一个nodejs写的商城系统，看完廖雪峰的[《javaScript全栈�
 &nbsp;&nbsp;&nbsp;|-app.js            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;//程序主入口文件</br>
 &nbsp;&nbsp;&nbsp;|-init-db.js        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;//执行这个可以初始化数据库表和表数据，谨慎执行</br>
 &nbsp;&nbsp;&nbsp;|-init-sql.sql      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;//init-db.js执行的sql文件</br>
-&nbsp;&nbsp;&nbsp;|-LICENSE           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;//MIT协议，拿走不谢</br>
+&nbsp;&nbsp;&nbsp;|-LICENSE           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</br>
 &nbsp;&nbsp;&nbsp;|-package.json      &nbsp;&nbsp;&nbsp;//依赖的库
   
 <b>四 一些截图：</b></br>
