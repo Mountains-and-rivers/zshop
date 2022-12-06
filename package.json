@@ -21,7 +21,7 @@
         "captchapng": "",
         "koa": "2.0.0",
         "koa-body": "",
-        "koa-bodyparser": "3.2.0",
+        "koa-bodyparser": "4.3.0",
         "koa-compress": "",
         "koa-router": "7.0.0",
         "koa-session2": "",
